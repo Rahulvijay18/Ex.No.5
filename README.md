@@ -106,7 +106,6 @@ To test and compare how different pattern models respond to various prompts (bro
 
 2.  **Refined Prompt (Basic Prompt):** This is a well-structured, detailed prompt that provides clear instructions, context, and constraints to guide the AI. It minimizes ambiguity and directs the model towards a specific type of output.
     * **Characteristics:** Specific, provides context (who, what, why), may assign a persona (e.g., "Act as a..."), defines the target audience, specifies tone and format (e.g., bullet points, table, word count).
-    * 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_30yd7530yd7530yd" src="https://github.com/user-attachments/assets/1f6c08b8-16ee-4ff5-9106-c017958d4035" />
 
 
